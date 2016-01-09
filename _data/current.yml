@@ -13,6 +13,12 @@
   dates: "January 18-21, 2016"
   url: http://2016.software-quality-days.com/en/
   twitter: swqd
+  
+  - name: TestExpo™ 2016
+  location: Copenhagen, Denmark
+  dates: "January 28, 2016"
+  url: http://www.capgeminisogeti.dk/udforsk/events/testexpo/
+  twitter: tedk16
 
 - name: European Testing Conference 2016
   location: Bucharest, Romania
